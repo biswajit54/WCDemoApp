@@ -20,7 +20,7 @@ Functionality:
 OpenWeather API 🔑 for Weather Data and.
 ⚙️ Setup Weather Data API
 openweathermap.png
-This project fetches weather data from the OpenWeather API.()
+This project fetches weather data from the OpenWeather API.(https://openweathermap.org/api)
 To begin the setup, you'll need to create an account and get a free API key.
 
 Create an account at openweathermap.org
