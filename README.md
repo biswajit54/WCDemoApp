@@ -3,7 +3,7 @@
 UI Components:
 	•	A search input field for entering the city name.
 	•	Display the current weather: temperature, weather condition (sunny, cloudy, etc.), and any other relevant information you choose.
-	•	A 3-day weather forecast showing the date, expected temperatures, and weather conditions.
+	•	A 7-day weather forecast showing the date, expected temperatures, and weather conditions.
 	•	Indicate loading state and handle errors gracefully, showing user-friendly messages.
 
  Architecture:
